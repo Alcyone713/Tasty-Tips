@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tasty-Tips/static/css/main.b4d39640.css",
+    "main.js": "/Tasty-Tips/static/js/main.052ae645.js",
+    "static/js/787.f9ff77e5.chunk.js": "/Tasty-Tips/static/js/787.f9ff77e5.chunk.js",
+    "index.html": "/Tasty-Tips/index.html",
+    "main.b4d39640.css.map": "/Tasty-Tips/static/css/main.b4d39640.css.map",
+    "main.052ae645.js.map": "/Tasty-Tips/static/js/main.052ae645.js.map",
+    "787.f9ff77e5.chunk.js.map": "/Tasty-Tips/static/js/787.f9ff77e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d39640.css",
+    "static/js/main.052ae645.js"
+  ]
+}
